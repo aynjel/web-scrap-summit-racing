@@ -1,0 +1,23 @@
+{
+  "name": "web-scrap-summit-racing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aynjel/web-scrap-summit-racing.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aynjel/web-scrap-summit-racing/issues"
+  },
+  "homepage": "https://github.com/aynjel/web-scrap-summit-racing#readme",
+  "dependencies": {
+    "puppeteer": "^21.1.0"
+  }
+}
